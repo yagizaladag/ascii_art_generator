@@ -61,13 +61,4 @@ If you would like to contribute, please follow these steps:
 2. Add a new feature or fix a bug.
 3. Submit your changes as a pull request.
 
-    ___   _____ ______________
-   /   | / ___// ____/  _/  _/
-  / /| | \__ \/ /    / / / /
- / ___ |___/ / /____/ /_/ /
-/_/  |_/____/\____/___/___/
-
-
-
-
 
